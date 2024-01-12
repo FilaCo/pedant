@@ -1,1 +1,1 @@
-pub use crate::app::{AppError, AppResult, Editor};
+pub use crate::app::{AppError, AppResult, Kernel as Imp};
