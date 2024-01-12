@@ -1,6 +1,6 @@
-use imp::v1::*;
+use pedant::v1::*;
 
 #[tokio::main]
-async fn main() -> AppResult<()> {
-    Imp::default().run().await
+async fn main() -> PedantResult<()> {
+    Pedant::default().run().await
 }

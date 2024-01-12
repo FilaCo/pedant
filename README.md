@@ -1,4 +1,4 @@
-# IMP
+# Pedant
 ![MIT OR Apache-2.0 licensed][license-badge]
 [![Conventional Commits][conventional-commits-badge]][conventional-commits-url]
 
