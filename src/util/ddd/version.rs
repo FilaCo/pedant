@@ -30,3 +30,6 @@ impl PartialEq for Version {
 impl VO for Version {
     type Error = UtilError;
 }
+
+#[cfg(test)]
+mod tests {}
