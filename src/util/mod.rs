@@ -1,3 +1,4 @@
+pub(crate) mod ddd;
 mod error;
 mod result;
 
