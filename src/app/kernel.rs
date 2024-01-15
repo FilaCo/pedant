@@ -1,4 +1,4 @@
-use crate::app::result::AppResult;
+use crate::app::AppResult;
 
 pub struct Kernel {}
 
