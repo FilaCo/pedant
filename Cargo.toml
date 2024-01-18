@@ -7,8 +7,9 @@ edition = "2021"
 thiserror = { version = "1" }
 log = { version = "0.4" }
 log4rs = { version = "1" }
+serde = { version = "1" }
 tokio = { version = "1", features = ["full"] }
 tracing = { version = "0.1" }
 tracing-subscriber = { version = "0.3" }
-wgpu = { version = "0.18" }
+wgpu = { version = "0.19" }
 winit = { version = "0.29" }
